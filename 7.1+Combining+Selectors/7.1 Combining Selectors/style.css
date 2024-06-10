@@ -9,5 +9,8 @@ color: firebrick;
 color: blue
 }
 li.done {
-color: seagreen;
+color: green;
+}
+ul p.done {
+font-size: 2rem;
 }
